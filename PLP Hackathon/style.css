@@ -1,0 +1,47 @@
+body{
+    background-color:grey;
+    font-family:"Poppins", sans-serif;
+    
+}
+.hero{
+    
+    position: relative;
+    overflow: hidden;
+}
+.content{
+    text-align: center;
+    padding-top: 20%;
+    color:whitesmoke;  
+}
+h1:hover{
+  color: crimson;
+}
+
+.nav-menu, a{
+padding: 20px;
+margin-right: 10px;
+float:right;
+text-decoration: dotted;
+box-sizing: 10px;
+color:white;
+}
+a:hover{
+    color: crimson;
+}
+img{
+    width: 100px;
+}
+.video{
+ position: fixed;
+ bottom: 0;
+right:0;
+min-width: 100%;
+min-height: 100%;
+  
+}
+.form,input{
+    text-align: center;
+}
+.button{
+    background-color:crimson;
+}
